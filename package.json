@@ -1,0 +1,14 @@
+{
+  "name": "99tech_challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "haivovan.bkit11@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.13.4",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
